@@ -40,13 +40,20 @@ confidence interval is 1492.431 to 1499.849 with a sample mean of 1496.14.
 
 Images:
 
-All lots: ![image](https://user-images.githubusercontent.com/78934120/121627696-d6c94180-ca45-11eb-905a-87ec4f91c7be.png)
+All lots: 
 
+![image](https://user-images.githubusercontent.com/78934120/121627696-d6c94180-ca45-11eb-905a-87ec4f91c7be.png)
 
-Lot 1: ![image](https://user-images.githubusercontent.com/78934120/121627768-f95b5a80-ca45-11eb-885b-3f5c7155b662.png)
+Lot 1: 
 
-Lot 2: ![image](https://user-images.githubusercontent.com/78934120/121627803-0e37ee00-ca46-11eb-985b-879be866ec67.png)
+![image](https://user-images.githubusercontent.com/78934120/121627768-f95b5a80-ca45-11eb-885b-3f5c7155b662.png)
 
-Lot 3: ![image](https://user-images.githubusercontent.com/78934120/121627836-20199100-ca46-11eb-85f2-c5e44a1c9653.png)
+Lot 2: 
+
+![image](https://user-images.githubusercontent.com/78934120/121627803-0e37ee00-ca46-11eb-985b-879be866ec67.png)
+
+Lot 3: 
+
+![image](https://user-images.githubusercontent.com/78934120/121627836-20199100-ca46-11eb-85f2-c5e44a1c9653.png)
 
 
