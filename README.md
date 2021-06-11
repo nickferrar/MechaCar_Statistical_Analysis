@@ -57,3 +57,21 @@ Lot 3:
 ![image](https://user-images.githubusercontent.com/78934120/121627836-20199100-ca46-11eb-85f2-c5e44a1c9653.png)
 
 
+## Study Design: MechaCar vs Competition
+
+In doing a study f MechaCar vs the competition, we could look at various metrics. Some metrics that would be useful for consumer are cost, city or highway fuel
+efficiency, horse power, maintenance cost, safety rating, trunk space, body features, sound system, off terrain capabilities, hauling capacity and seats. 
+
+I think it would be easier to market a vehicle with shorter long term costs, I would design a two sample t-test of city fuel efficiency against the competition to help the 
+consumer save on gas in the long term. 
+
+Null hypothesis: MCmean = COMPmean
+Alternative hypothesis: MCmean - COMPmean > 0 
+
+A two sample t-test would be valid because:
+1) The data values of MechaCar and Competition are independent of each other 
+2) We can obtain random samples of each. 
+3) We can assume normality of each population's distribution. 
+4) City fuel efficiency is a continuous data type
+
+
