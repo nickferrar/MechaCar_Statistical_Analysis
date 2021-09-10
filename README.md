@@ -59,10 +59,10 @@ Lot 3:
 
 ## Study Design: MechaCar vs Competition
 
-In doing a study f MechaCar vs the competition, we could look at various metrics. Some metrics that would be useful for consumer are cost, city or highway fuel
+In doing a study of MechaCar vs the competition, we could look at various metrics. Some metrics that would be useful for consumer are cost, city or highway fuel
 efficiency, horse power, maintenance cost, safety rating, trunk space, body features, sound system, off terrain capabilities, hauling capacity and seats. 
 
-I think it would be easier to market a vehicle with shorter long term costs, I would design a two sample t-test of city fuel efficiency against the competition to help the 
+I think it would be easier to market a vehicle with lower long term costs. I would design a two sample t-test of city fuel efficiency against the competition to help the 
 consumer save on gas in the long term. 
 
 Null hypothesis: MCmean = COMPmean
